@@ -228,6 +228,21 @@
         "sha512": "f41dc9e8b28327a1e29b14667cb42ae5e7e17bcfa4495260f6f851a80d4b08d98a30d5c52b110007ee325f02dac7431e3fad4560c6840af0bf347afad48c5aac"
       },
       "path": "mods/ferritecore-7.1.1-fabric.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/v1U62WLz/versions/SCqiBl36/Statistic-Books-MC_v1.5.2.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 134011,
+      "hashes": {
+        "sha1": "f88f1f1f435fe279c782144a56b3cd2a0a3217ff",
+        "sha512": "93dfdb6aa10d8a355faec49d0133aeb4f7a586cc11aa9b1b248717f4705a6c187f2df785badb9679ab7d00c69df2b95a87ca3c93063ee350e27b455eae8156fd"
+      },
+      "path": "datapacks/Statistic-Books-MC_v1.5.2.zip"
     }
   ],
   "formatVersion": 1,
