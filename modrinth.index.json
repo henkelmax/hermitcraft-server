@@ -243,6 +243,62 @@
         "sha512": "93dfdb6aa10d8a355faec49d0133aeb4f7a586cc11aa9b1b248717f4705a6c187f2df785badb9679ab7d00c69df2b95a87ca3c93063ee350e27b455eae8156fd"
       },
       "path": "datapacks/Statistic-Books-MC_v1.5.2.zip"
+    },
+    {
+      "downloads": [
+        "https://github.com/MukiTanuki/armor-statues/archive/4bde2d95286431997abfdda0595a67128be519f7.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "hashes": {
+        "sha1": "c5b96d61896a67b12a809cf62f690e08d430f47a",
+        "sha512": "bcad7b47093083efc1d5b2d63f9c5549bf8826a9ed81efe75fb45bb69d10c2f3012fa69d9109fe2ad909f670687a63204dab584e697c71858e1c02aeaef38b4d"
+      },
+      "path": "datapacks/armor-statues_4bde2d95286431997abfdda0595a67128be519f7.zip"
+    },
+    {
+      "downloads": [
+        "https://github.com/MukiTanuki/custom_roleplay_data/archive/fea3c2d48cd08b07f9650ae076a90fc3ee3ce10f.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "hashes": {
+        "sha1": "d4412fe115db72af144c1633a256c3b79eff130c",
+        "sha512": "05d2a0c79f06516406ed1d70a696e41b3d14b0f1260d49d7ad1fef9d8d6bd25171d808b7d10d6b51a6611b532761032277b737de173b377166145d4466449a93"
+      },
+      "path": "datapacks/custom_roleplay_data_fea3c2d48cd08b07f9650ae076a90fc3ee3ce10f.zip"
+    },
+    {
+      "downloads": [
+        "https://github.com/MukiTanuki/name_formatting_station/archive/c38de98b5435f3f6f9f6035e55713a9acb453e57.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "hashes": {
+        "sha1": "8e5b72945668c127b8de613c63c19b409e29a14a",
+        "sha512": "ca34511687f15e5d4e1f517c68d4c874785b5ebcbca129471284560de189d702d427ed1a941dd5dd844e6f069ea998a649353cf12540afd16c315650d1bf557d"
+      },
+      "path": "datapacks/name_formatting_station_c38de98b5435f3f6f9f6035e55713a9acb453e57.zip"
+    },
+    {
+      "downloads": [
+        "https://github.com/MukiTanuki/translatable/archive/81209fe74402dc3545a5d952e53c5018448cd77c.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "hashes": {
+        "sha1": "34a3750d6bc20b9afd6c9dcd7095ad828aa6a8b7",
+        "sha512": "d5a0a8796d7ab5e39695fa9b26a67f4fc0061871179916d175e95dd27e788a6d2d1d7383c96ee76f0c592632d2d30504da7996bf100590011224f6f69fc6f3d1"
+      },
+      "path": "datapacks/translatable_81209fe74402dc3545a5d952e53c5018448cd77c.zip"
     }
   ],
   "formatVersion": 1,
