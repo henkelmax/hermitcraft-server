@@ -1,1 +1,3 @@
 overrides/mods/*.jar
+utils/github-datapack-converter/out.json
+node_modules
