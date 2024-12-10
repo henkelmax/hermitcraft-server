@@ -321,48 +321,18 @@
     },
     {
       "downloads": [
-        "https://github.com/hermitcraft-official/hard-on-start/archive/v1.2.zip"
+        "https://github.com/hermitcraft-official/camera/archive/v1.1.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4021,
+      "fileSize": 4417,
       "hashes": {
-        "sha1": "d84d9a583309a8c80b533da28a8a5a7e712fab58",
-        "sha512": "79857613f5dc3ad5ee1daaeb4bab08b44b8e70c0d11b4ae0a074ba1f0cd7ddb57a7afc1b0bb56c309f51103efa3bedebb42a84049b94c6daa093ba39659921f2"
+        "sha1": "0537f88fa3adeee4408e42dfff2dd64c7614f2e3",
+        "sha512": "fb59009266772d90ff1e5c5354cb629f9c169a5559efe4b7d741052e8043e346e4cb17d5472cedd001013fd9c0e5f67470e4153340a947b088838ca536afced7"
       },
-      "path": "datapacks/hard-on-start_v1.2.zip"
-    },
-    {
-      "downloads": [
-        "https://github.com/hermitcraft-official/tp-tools/archive/v1.2.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 42090,
-      "hashes": {
-        "sha1": "dc9c9ef23a48d332bb35bcdabae9af6d47b5874f",
-        "sha512": "b189cdc7b289fbcd84dadba54df5078e2e30dc3d18c6c6d2413d445dc284a89278b898f7e5a5161e9d325dece7f6ea8e1a523124e9d4fa6e778c3b1e17c4718d"
-      },
-      "path": "datapacks/tp-tools_v1.2.zip"
-    },
-    {
-      "downloads": [
-        "https://github.com/hermitcraft-official/toggle-weather/archive/v1.2.zip"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 7164,
-      "hashes": {
-        "sha1": "2ac4b9f49617d24357d31e1f5611d4e0489b2267",
-        "sha512": "a50573c1c42a52612b60584a4fee0ad659257b5fe07d4bdae2668ad6d104e068cc25a6602ac8487758f7a0fe21bcdbec61a6997e8b2d68920bee5acb196ca558"
-      },
-      "path": "datapacks/toggle-weather_v1.2.zip"
+      "path": "datapacks/camera_v1.1.zip"
     },
     {
       "downloads": [
@@ -381,18 +351,48 @@
     },
     {
       "downloads": [
-        "https://github.com/hermitcraft-official/camera/archive/v1.1.zip"
+        "https://github.com/hermitcraft-official/hard-on-start/archive/v1.2.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 4417,
+      "fileSize": 4021,
       "hashes": {
-        "sha1": "0537f88fa3adeee4408e42dfff2dd64c7614f2e3",
-        "sha512": "fb59009266772d90ff1e5c5354cb629f9c169a5559efe4b7d741052e8043e346e4cb17d5472cedd001013fd9c0e5f67470e4153340a947b088838ca536afced7"
+        "sha1": "d84d9a583309a8c80b533da28a8a5a7e712fab58",
+        "sha512": "79857613f5dc3ad5ee1daaeb4bab08b44b8e70c0d11b4ae0a074ba1f0cd7ddb57a7afc1b0bb56c309f51103efa3bedebb42a84049b94c6daa093ba39659921f2"
       },
-      "path": "datapacks/camera_v1.1.zip"
+      "path": "datapacks/hard-on-start_v1.2.zip"
+    },
+    {
+      "downloads": [
+        "https://github.com/hermitcraft-official/toggle-weather/archive/v1.2.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 7164,
+      "hashes": {
+        "sha1": "2ac4b9f49617d24357d31e1f5611d4e0489b2267",
+        "sha512": "a50573c1c42a52612b60584a4fee0ad659257b5fe07d4bdae2668ad6d104e068cc25a6602ac8487758f7a0fe21bcdbec61a6997e8b2d68920bee5acb196ca558"
+      },
+      "path": "datapacks/toggle-weather_v1.2.zip"
+    },
+    {
+      "downloads": [
+        "https://github.com/hermitcraft-official/tp-tools/archive/v1.2.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 42090,
+      "hashes": {
+        "sha1": "dc9c9ef23a48d332bb35bcdabae9af6d47b5874f",
+        "sha512": "b189cdc7b289fbcd84dadba54df5078e2e30dc3d18c6c6d2413d445dc284a89278b898f7e5a5161e9d325dece7f6ea8e1a523124e9d4fa6e778c3b1e17c4718d"
+      },
+      "path": "datapacks/tp-tools_v1.2.zip"
     }
   ],
   "formatVersion": 1,
