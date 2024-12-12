@@ -231,18 +231,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/v1U62WLz/versions/SCqiBl36/Statistic-Books-MC_v1.5.2.zip"
+        "https://cdn.modrinth.com/data/v1U62WLz/versions/7CJFzrgx/Statistic-Books-MC_v1.5.3.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 134011,
+      "fileSize": 134512,
       "hashes": {
-        "sha1": "f88f1f1f435fe279c782144a56b3cd2a0a3217ff",
-        "sha512": "93dfdb6aa10d8a355faec49d0133aeb4f7a586cc11aa9b1b248717f4705a6c187f2df785badb9679ab7d00c69df2b95a87ca3c93063ee350e27b455eae8156fd"
+        "sha1": "4240956eea58b85eb744d05f4a2911ff58ffb4b2",
+        "sha512": "8cd9cb844d069f15a054f8584d6e549cee97f6ffcffcae04eb47a152148e951bb470673201daf7a3f271e8ae3a14215afa49301d106f699b6c9af0f5070f6bdc"
       },
-      "path": "datapacks/Statistic-Books-MC_v1.5.2.zip"
+      "path": "datapacks/Statistic-Books-MC_v1.5.3.zip"
     }
   ],
   "formatVersion": 1,
