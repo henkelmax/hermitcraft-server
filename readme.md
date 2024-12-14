@@ -1,5 +1,20 @@
 # Hermitcraft Server Pack
 
+The Hermitcraft Server Pack includes all mods, datapacks and configs used by the Hermits.
+If you're looking to replicate the Hermitcraft experience, this pack is for you.
+From customizable armor stands to anti enderman griefing, this pack has it all.
+Some features, like automated resource pack updates, require additional server configuration and setup that we do not provide support for.
+
+## Installation Instructions
+
+**Installation on Servers**
+
+It is recommended to use [mrpack-install](https://github.com/nothub/mrpack-install) to create a server for this modpack.
+
+**Datapacks**
+
+Currently you need to manually copy the contents of the `datapack` folder into your worlds datapack folder.
+
 ## Datapack Credits
 
 - [Vanilla Tweaks](https://vanillatweaks.net/)
