@@ -96,6 +96,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/NSBscIsQ/versions/Eab6gMjQ/inhabitor-fabric-1.21.4-1.0.5.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 127477,
+      "hashes": {
+        "sha1": "9f121fde3617469e6dea1224d51e26bf1f515b1c",
+        "sha512": "cd94cc51f60d1b4c9f389aea559ad0649a9dd7029bc456ab6a965f863463a95e233a58bde1c687763d3e47189e2a66d9471c64ecf391a34daab1db88333b2ee5"
+      },
+      "path": "mods/inhabitor-fabric-1.21.4-1.0.5.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/P7dR8mSH/versions/kgg9d3no/fabric-api-0.112.0%2B1.21.4.jar"
       ],
       "env": {
