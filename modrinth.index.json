@@ -21,6 +21,36 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/1s7zUX2O/versions/eKFrEd4h/name_formatting_station_v2.5.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 179918,
+      "hashes": {
+        "sha1": "738d83b52d40183f2c6598b902dbbf5bd953e9c7",
+        "sha512": "43817aca9c6dcdbc38665eae6270a859978690e3aba4ba34bf7cf63bdb6556f5506c0f9f38f387f2581d86b60afcbbcea8c0dc7c833ad60bf237dd97a4863e50"
+      },
+      "path": "datapacks/name_formatting_station_v2.5.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/2pK3w13d/versions/9hCPx2N1/custom_roleplay_data_v1.5.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 26653,
+      "hashes": {
+        "sha1": "3df4dfe72d50aaab35a5bd6b8713a732fa1c8292",
+        "sha512": "8734d16404bee9728c068404bce57d906414565ff05e071ce49492f2fa41e716ba353e7f9a0db1b21fce0dd1cf786a318827c88888d4ddec61075c241578be0e"
+      },
+      "path": "datapacks/custom_roleplay_data_v1.5.zip"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/9eGKb6K1/versions/pl9FpaYJ/voicechat-fabric-1.21.4-2.5.26.jar"
       ],
       "env": {
@@ -36,33 +66,48 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9s6osm5g/versions/c8IkvzeS/cloth-config-17.0.142-fabric.jar"
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1155626,
+      "fileSize": 1152857,
       "hashes": {
-        "sha1": "a26a7d954c131fd50047ffef2c2e264f9fd805a9",
-        "sha512": "e13690251525aac4edf63cfb158019f573f0669558dc704462ba7df9721e5b2dc8f4a13c0b09c616a706efc75daab75ed61d673ff603e6a89387cc5b0aec5d8d"
+        "sha1": "63a1a3b25c642f5a745dfcc9bdc0841660f560af",
+        "sha512": "ecc59da51149250284b0752475c7b328e0b0325888948391597afc638d6e67fa436297af12d2067376de0098ffa6ca86aa3b8d6011356c179222404c701c6345"
       },
-      "path": "mods/cloth-config-17.0.142-fabric.jar"
+      "path": "mods/cloth-config-17.0.144-fabric.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/KEv54FjE/fabric-api-0.111.0%2B1.21.4.jar"
+        "https://cdn.modrinth.com/data/Cfqq3Wh1/versions/GwCDYRR1/armor_statues_v2.14.0.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2330831,
+      "fileSize": 444301,
       "hashes": {
-        "sha1": "b8e3e51ee9b56e05b942651de05ecaa811d40edc",
-        "sha512": "ca6e1f0a6178f48b319891ca666ddaa186c094b6402e64e9d45e9f206d0985b0dbb00dfc833b14f26013463845ee1496356d4d8c0028eee4db9524e2cf2df618"
+        "sha1": "a17a6ecb724a04041b8cc22663188bed5f3c9c71",
+        "sha512": "ab7c36f3633153aba050e4145a57ea09751611debbbe0938c719d764ade440a1220b715b7fcdce005ca1388c704632644718a1ffabefd1814b5d1737e1898e36"
       },
-      "path": "mods/fabric-api-0.111.0+1.21.4.jar"
+      "path": "datapacks/armor_statues_v2.14.0.zip"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/kgg9d3no/fabric-api-0.112.0%2B1.21.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2367260,
+      "hashes": {
+        "sha1": "fedab443fa2ffcf6e6d5764380280a7572f9a8b2",
+        "sha512": "85952af45342f3f7f8834326a73e500d811dcb854bc472bc9d0df18ee36a63f3e7f14000bdda9bdc57f139a87c2ab7a1514c571dbb935694e4de6ae7d90fe0a4"
+      },
+      "path": "mods/fabric-api-0.112.0+1.21.4.jar"
     },
     {
       "downloads": [
