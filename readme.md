@@ -11,10 +11,6 @@ Some features, like automated resource pack updates, require additional server c
 
 It is recommended to use [mrpack-install](https://github.com/nothub/mrpack-install) to create a server for this modpack.
 
-**Datapacks**
-
-Currently you need to manually copy the contents of the `datapack` folder into your worlds datapack folder.
-
 ## Datapack Credits
 
 - [Vanilla Tweaks](https://vanillatweaks.net/)
