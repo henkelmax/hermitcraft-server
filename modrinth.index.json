@@ -51,18 +51,33 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/pl9FpaYJ/voicechat-fabric-1.21.4-2.5.26.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/4Zzq92HE/voicechat-fabric-1.21.4-2.5.27.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 6593994,
+      "fileSize": 6604028,
       "hashes": {
-        "sha1": "928927def319f0a534b2e2e2209f30fbb7728b4e",
-        "sha512": "c262302256a708d5ecb3e2d61de74bfb600b8892a5ef2780a309fff296f4e0123f6b95e10fd9823b5b2e4c532d0f013d94c87be0ddaba3423a5296ba1a7ed119"
+        "sha1": "6ecacc1e9f62a98ff709112a5e6ffcfb8cbc0af5",
+        "sha512": "9ef2ab20cc075a1e43ea7160ac99d5d89a3cc908aee11f443a59e525f8ab3ee3376d768b09b1c8428acb709420d27e1af8e5c385c2309c1bbf5886011e568555"
       },
-      "path": "mods/voicechat-fabric-1.21.4-2.5.26.jar"
+      "path": "mods/voicechat-fabric-1.21.4-2.5.27.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/9nFfpUyI/versions/K1EzInY1/datapack-injector-fabric-1.0.0%2B1.21.4.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 6080,
+      "hashes": {
+        "sha1": "33597ee993de0e2dd7b6dfd9950b9b3d40f544e9",
+        "sha512": "a5c9b08a0d673a41ba36134bea80bf632cafaca05fb7963097b2eb5418ba9bf2dce02a416609009e07e7b5b83b7242691be64d81e68c530270e2f7e929361cab"
+      },
+      "path": "mods/datapack-injector-fabric-1.0.0+1.21.4.jar"
     },
     {
       "downloads": [
@@ -111,18 +126,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/kgg9d3no/fabric-api-0.112.0%2B1.21.4.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/d6uc3lSM/fabric-api-0.112.2%2B1.21.4.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2367260,
+      "fileSize": 2065392,
       "hashes": {
-        "sha1": "fedab443fa2ffcf6e6d5764380280a7572f9a8b2",
-        "sha512": "85952af45342f3f7f8834326a73e500d811dcb854bc472bc9d0df18ee36a63f3e7f14000bdda9bdc57f139a87c2ab7a1514c571dbb935694e4de6ae7d90fe0a4"
+        "sha1": "2e2900453b5d930eeb704fcd1f7d03b3a426d46c",
+        "sha512": "e9ee02c7e7cc8c7888dce66bc1378a6debf00ddd173ba775edbee57465ee2dc39b6c86e2529d18eaad1ac2c4464c24670ffe4fcb759c1659ef3e666b0505e694"
       },
-      "path": "mods/fabric-api-0.112.0+1.21.4.jar"
+      "path": "mods/fabric-api-0.112.2+1.21.4.jar"
     },
     {
       "downloads": [
