@@ -126,48 +126,48 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/d6uc3lSM/fabric-api-0.112.2%2B1.21.4.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/r5NCKSxv/fabric-api-0.114.3%2B1.21.4.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2065392,
+      "fileSize": 2093409,
       "hashes": {
-        "sha1": "2e2900453b5d930eeb704fcd1f7d03b3a426d46c",
-        "sha512": "e9ee02c7e7cc8c7888dce66bc1378a6debf00ddd173ba775edbee57465ee2dc39b6c86e2529d18eaad1ac2c4464c24670ffe4fcb759c1659ef3e666b0505e694"
+        "sha1": "f7ab0eaecce72002338c55faf367bb065acc5d2d",
+        "sha512": "37eae71ab45a27bf3855d650b3abcec093daf9271ed7a9ffe5af1729b83605a7146beb2cccf0b15f1337cb444557499c528429f8109b42e4fce61ba9c6e4c392"
       },
-      "path": "mods/fabric-api-0.112.2+1.21.4.jar"
+      "path": "mods/fabric-api-0.114.3+1.21.4.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/PFwYNrHb/versions/1CRYaMLF/ArmorPoser-fabric-1.21.4-8.0.0.jar"
+        "https://cdn.modrinth.com/data/PFwYNrHb/versions/oHSKvtDH/ArmorPoser-fabric-1.21.4-8.0.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 135773,
+      "fileSize": 135816,
       "hashes": {
-        "sha1": "64b3e6fe94c073bae6b4d8715d30fd5220554a75",
-        "sha512": "2abd08fc9f2d9a01f59abaf9c9603569e2a10cda08c66cb2e7f7ed740fa279806ec844f14ef1ddb73084513c1c637b153a203ff5dc25162a62f02c6224650414"
+        "sha1": "cd3060ed1afd3937f06754c2d7e4cc18f2d321d9",
+        "sha512": "cd81305c7b2526cee4a561168d909fc1537564819a456a07ea57f9517147f239d1426a165348c8be094a697d319a3cbecd8097ff930d084ac8b854598cc3ab4e"
       },
-      "path": "mods/ArmorPoser-fabric-1.21.4-8.0.0.jar"
+      "path": "mods/ArmorPoser-fabric-1.21.4-8.0.1.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/SRlzjEBS/versions/we6TNJhS/audioplayer-fabric-1.21.4-1.13.1.jar"
+        "https://cdn.modrinth.com/data/SRlzjEBS/versions/377C94c4/audioplayer-fabric-1.21.4-1.13.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 793457,
+      "fileSize": 793261,
       "hashes": {
-        "sha1": "e1c71c8e2807b96eeed1d50031bb2059e88889dc",
-        "sha512": "bad5024dc7688941e1e27ea35ac5e498120d1eb4c8f45895ea3d771bb634af2c2e9cc37acfb89940cf1c8f9b09e6e926fe493859b5909174d49a1b74f3f23cd7"
+        "sha1": "20607b73b3d551727fd57b692fbf4c6e8ced2c15",
+        "sha512": "32ebe138c6a842a4dd994178753be43c8b4e8358bcf4bca2ba35eef684b8a834a4b3f83cbfa0c690a47798e64bf37c11ae0bfaf714052ee41a21d2f280c69b34"
       },
-      "path": "mods/audioplayer-fabric-1.21.4-1.13.1.jar"
+      "path": "mods/audioplayer-fabric-1.21.4-1.13.2.jar"
     },
     {
       "downloads": [
@@ -231,18 +231,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/t1FlWYl9/lithium-fabric-0.14.3%2Bmc1.21.4.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/6SB2ZRPm/lithium-fabric-0.14.5%2Bmc1.21.4.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 739550,
+      "fileSize": 746206,
       "hashes": {
-        "sha1": "054d976fc8bc6699980ad7e87a344cd356e2c0d5",
-        "sha512": "1a4eafbdcee3886d33c04aa462d13a8c1e345ff492001add262476585b78327a2d016e56385bced869615bc97161a34a0a716f5f579c8c1d7080b278f4f11183"
+        "sha1": "9b1c2d8f9082784ab7f440a0bdcd92ed0c1b5ef1",
+        "sha512": "4e523a6c5148a29aed9900476b1f05647c7f22e9912212b3e235c1c69ba1df12a21b64f1dabc91571c2ce2aecdb3b98dda27834e8e3f753f000fce77acab28fd"
       },
-      "path": "mods/lithium-fabric-0.14.3+mc1.21.4.jar"
+      "path": "mods/lithium-fabric-0.14.5+mc1.21.4.jar"
     },
     {
       "downloads": [
