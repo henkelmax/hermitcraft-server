@@ -21,18 +21,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1s7zUX2O/versions/eKFrEd4h/name_formatting_station_v2.5.zip"
+        "https://cdn.modrinth.com/data/1s7zUX2O/versions/Hsy8WtG4/name_formatting_station_v2.7.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 179918,
+      "fileSize": 225573,
       "hashes": {
-        "sha1": "738d83b52d40183f2c6598b902dbbf5bd953e9c7",
-        "sha512": "43817aca9c6dcdbc38665eae6270a859978690e3aba4ba34bf7cf63bdb6556f5506c0f9f38f387f2581d86b60afcbbcea8c0dc7c833ad60bf237dd97a4863e50"
+        "sha1": "e1e6a3d5a8eb1b1a6aa4c4f51904755639ecdec7",
+        "sha512": "402def14896b7350fcb51df4f09ce2a899fe8d80ac49fe193e6ce279453c8af9022b7fa0689dc199419ff73f0581ddd67034ac850a30f63860cdf6bcfe375b4b"
       },
-      "path": "datapacks/name_formatting_station_v2.5.zip"
+      "path": "datapacks/name_formatting_station_v2.7.zip"
     },
     {
       "downloads": [
@@ -111,18 +111,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Cfqq3Wh1/versions/GwCDYRR1/armor_statues_v2.14.0.zip"
+        "https://cdn.modrinth.com/data/Cfqq3Wh1/versions/uQIY48mC/armor_statues_v2.15.1.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 444301,
+      "fileSize": 464784,
       "hashes": {
-        "sha1": "a17a6ecb724a04041b8cc22663188bed5f3c9c71",
-        "sha512": "ab7c36f3633153aba050e4145a57ea09751611debbbe0938c719d764ade440a1220b715b7fcdce005ca1388c704632644718a1ffabefd1814b5d1737e1898e36"
+        "sha1": "b0f8f6266cb26dbfb98ae4ac0890241ea0205a4d",
+        "sha512": "c793a1e3fc22d25dd7d7e35a5f763badb009b4630c54ce4d8f1d76365ca2b43c586ddd78468aa638597cc68831f9a8b364d6d183397f29a021dda69dcf84fa20"
       },
-      "path": "datapacks/armor_statues_v2.14.0.zip"
+      "path": "datapacks/armor_statues_v2.15.1.zip"
     },
     {
       "downloads": [
@@ -336,18 +336,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/v1U62WLz/versions/7CJFzrgx/Statistic-Books-MC_v1.5.3.zip"
+        "https://cdn.modrinth.com/data/v1U62WLz/versions/RGeyLRng/Statistic-Books-MC_v1.6.1.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 134512,
+      "fileSize": 135465,
       "hashes": {
-        "sha1": "4240956eea58b85eb744d05f4a2911ff58ffb4b2",
-        "sha512": "8cd9cb844d069f15a054f8584d6e549cee97f6ffcffcae04eb47a152148e951bb470673201daf7a3f271e8ae3a14215afa49301d106f699b6c9af0f5070f6bdc"
+        "sha1": "d94e50af14e9e21af8c6883832270ce6c0706105",
+        "sha512": "6a3c12098413157296c75b4e17ce8fdd7b73a8e40b379d82d899295d47c4009b2016f3dbe1d8658f5ac445362eb1501999e6e6a55f864b9aa1afe72e762b0f90"
       },
-      "path": "datapacks/Statistic-Books-MC_v1.5.3.zip"
+      "path": "datapacks/Statistic-Books-MC_v1.6.1.zip"
     }
   ],
   "formatVersion": 1,
