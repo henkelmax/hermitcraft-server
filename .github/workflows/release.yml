@@ -26,7 +26,7 @@ jobs:
         with:
           token: ${{ secrets.MODRINTH_TOKEN }}
           file_path: hermitcraft-server.mrpack
-          name: Hermitcraft Server ${{ github.event.release.tag_name }}
+          name: Hermitcraft Season 11 Server ${{ github.event.release.tag_name }}
           version: ${{ github.event.release.tag_name }}
           changelog: ${{ github.event.release.body }}
           game_versions: 1.21.10
