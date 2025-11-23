@@ -13,7 +13,7 @@ jobs:
       - name: Inject modpack version
         run: jq --arg value "${{ github.event.release.tag_name }}" '.versionId = $value' modpack/modrinth.index.json > modrinth.index.json && mv modrinth.index.json modpack/modrinth.index.json
       - name: Download fabric server launcher
-        run: curl -o modpack/server-overrides/server.jar https://meta.fabricmc.net/v2/versions/loader/1.21.8/0.17.2/1.1.0/server/jar
+        run: curl -o modpack/server-overrides/server.jar https://meta.fabricmc.net/v2/versions/loader/1.21.10/0.17.3/1.1.0/server/jar
       - name: Pack mrpack
         run: cd modpack && zip -r ../hermitcraft-server.mrpack modrinth.index.json overrides/ server-overrides/
       - name: Upload mrpack
@@ -29,7 +29,7 @@ jobs:
           name: Hermitcraft Server ${{ github.event.release.tag_name }}
           version: ${{ github.event.release.tag_name }}
           changelog: ${{ github.event.release.body }}
-          game_versions: 1.21.8
+          game_versions: 1.21.10
           loaders: fabric
           release_type: beta
           featured: true

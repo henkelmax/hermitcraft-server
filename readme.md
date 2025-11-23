@@ -11,12 +11,13 @@ Some features, like automated resource pack updates, require additional server c
 
 It is recommended to use [mrpack-install](https://github.com/nothub/mrpack-install) to create a server for this modpack.
 
-## Datapack Credits
+## Credits
 
+- [Fabric Minecraft Server Launcher](https://fabricmc.net/use/server/)
 - [Vanilla Tweaks](https://vanillatweaks.net/)
-- [RestartRedstone](https://github.com/hermitcraft-official/RestartRedstone)
 - [camera](https://github.com/hermitcraft-official/camera)
 - [hard-on-start](https://github.com/hermitcraft-official/hard-on-start)
+- [ModelApplier](https://github.com/ewanhowell5195/ModelApplier)
 - [tp-tools](https://github.com/hermitcraft-official/tp-tools)
 - [toggle-weather](https://github.com/hermitcraft-official/toggle-weather)
 - [cave-cleaner](https://github.com/hermitcraft-official/cave-cleaner)
