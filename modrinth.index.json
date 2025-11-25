@@ -36,6 +36,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/3bVvvVXu/versions/5QkwKRML/phantom-spawning-v0.1.1-mc1.21.10.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 262131,
+      "hashes": {
+        "sha1": "610d0f7ba1b06c8310d884d78f1499ada991216d",
+        "sha512": "71e34e78a2d1b04f4acb6902541a8d62fed31d570fbe1225ac988804f6d13d31cf7840ea5065c8ba04d08a4a4b01a4efae86be4a9b03d40d5fe9cdee6a6276ad"
+      },
+      "path": "mods/phantom-spawning-v0.1.1-mc1.21.10.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar"
       ],
       "env": {
