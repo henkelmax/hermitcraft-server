@@ -6,18 +6,33 @@
   "files": [
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1s7zUX2O/versions/4MYTRVpR/name_formatting_station_v2.8.zip"
+        "https://cdn.modrinth.com/data/1LE7mid6/versions/TZsIDYOE/enhancedgroups-fabric-1.21.11-1.7.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 225605,
+      "fileSize": 525056,
       "hashes": {
-        "sha1": "57e499fd71d85fd63cf8dae69eb05b3076ccabf3",
-        "sha512": "6362a0d23fadc8ed377330e8c5c0fdf650df9f52219d0253a595c0686017c5be11417d0007adb038320e76a0d61d7967983838749aaafcb540c5707049a9ab4f"
+        "sha1": "f0d3a10969a63b5355a97bff6184f25c274a35d8",
+        "sha512": "fba198429a362c4cc81b1fae9125aff6fe64fce737517db5bdc57919692d6e0046b3f33d79e1a06c2e2fb8eaf5a8a995dde406ec47a48894f83322c969026bf4"
       },
-      "path": "datapacks/name_formatting_station_v2.8.zip"
+      "path": "mods/enhancedgroups-fabric-1.21.11-1.7.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/1s7zUX2O/versions/fOI0qHKG/name_formatting_station_v2.9.zip"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 226452,
+      "hashes": {
+        "sha1": "1a4f5da336f47cba7e51ec62b3b8fa9445a27158",
+        "sha512": "fe482510a0fbc813fe0f3fd4e6e2e052e3b3811dec53907cd4c5bae2cec76fcfde33f80621659858f0fdb72285b0ffb71bdd1d993fd64e51939d4ffe7194e7c8"
+      },
+      "path": "datapacks/name_formatting_station_v2.9.zip"
     },
     {
       "downloads": [
