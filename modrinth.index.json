@@ -96,18 +96,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Cfqq3Wh1/versions/GB942pUj/armor_statues_v2.16.0.zip"
+        "https://cdn.modrinth.com/data/Cfqq3Wh1/versions/4qntY0gW/armor_statues_v2.16.1.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 464823,
+      "fileSize": 464876,
       "hashes": {
-        "sha1": "73648af3461925171f5818370646e25e9ed1be40",
-        "sha512": "5894cec85420af19b9558529ce304fe24a8d66385853fbf6197629cdc4b2b0a6ec4df6690bbda23946383ec78b2358178d7d508141e5c12e62f402d472b507f2"
+        "sha1": "f2a2bc753a7e56418a2df918216311261d233c73",
+        "sha512": "530ba0269eb7a604294507a99f6a0f067975c3d22646dd3f626c55f7217462ac7f04b260b4605a2247d6cad1a885b8d8cac7467cb3a222a5aafc9c91d9bbae79"
       },
-      "path": "datapacks/armor_statues_v2.16.0.zip"
+      "path": "datapacks/armor_statues_v2.16.1.zip"
     },
     {
       "downloads": [
