@@ -201,18 +201,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/YoRtMPzM/versions/xOPNzoIc/SHA1Runtime-1.21.11-1.4.1.jar"
+        "https://cdn.modrinth.com/data/YoRtMPzM/versions/GuzIW28y/SHA1Runtime-26.1-1.4.2.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 26362,
+      "fileSize": 26787,
       "hashes": {
-        "sha1": "2b4c8bdf48a23eb28028ad1ace7d8c56812587ea",
-        "sha512": "6da7488f9ea99bc0d318280063197d1fbacf60199bcb138d642576437033e8813c05ccc89e80eb7786b2237deef29a9ff6f0669e9dc2915811c32cf5081dd8bc"
+        "sha1": "c1ad9e431a1bca906d8d528e3e8716e1a3ac4ab2",
+        "sha512": "4eaebdbe0859c9fe3892faa0d7f9a1e53d15312dbc4548335eec857347dbc2bbc98759a0619f8f6f161e232d1857cc4d702605fc12d90a81bff3e0687c566789"
       },
-      "path": "mods/SHA1Runtime-1.21.11-1.4.1.jar"
+      "path": "mods/SHA1Runtime-26.1-1.4.2.jar"
     },
     {
       "downloads": [
@@ -291,18 +291,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ohNO6lps/versions/RXbL43Lt/ForgeConfigAPIPort-v26.1.3-mc26.1.x-Fabric.jar"
+        "https://cdn.modrinth.com/data/ohNO6lps/versions/mwAOaKnn/ForgeConfigAPIPort-v26.1.4-mc26.1.x-Fabric.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 590163,
+      "fileSize": 609813,
       "hashes": {
-        "sha1": "b9a005e2a00c3e2a095cc41264e9a9f60bc3090a",
-        "sha512": "96cb9a0ce20622c844d7b5d04e250d0c6b7026972d0680c5d60c731546578cdf20d5ad898ac81e87744f5805e191f05c8598fc6e1175a97ece3bbb48afbc77b2"
+        "sha1": "b53baf921ed9809d78a3b7a770b8789f8386e6ea",
+        "sha512": "f68ab718347c3d0908dce9bfc3603451fba5d10dcca29f4c8d54c32a7bae2d38131618f4f09b26ee6a55b7b8d87bde3ffc7ac5e97466d7b42650cd6cb437c052"
       },
-      "path": "mods/ForgeConfigAPIPort-v26.1.3-mc26.1.x-Fabric.jar"
+      "path": "mods/ForgeConfigAPIPort-v26.1.4-mc26.1.x-Fabric.jar"
     },
     {
       "downloads": [
