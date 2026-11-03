@@ -1,23 +1,23 @@
 {
   "dependencies": {
-    "fabric-loader": "0.19.3",
-    "minecraft": "26.2"
+    "fabric-loader": "0.20.1",
+    "minecraft": "26.3"
   },
   "files": [
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1LE7mid6/versions/BG2QdQmW/enhancedgroups-fabric-1.7.1%2B26.2.jar"
+        "https://cdn.modrinth.com/data/1LE7mid6/versions/bxfWYs0a/enhancedgroups-fabric-1.8.0%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 513444,
+      "fileSize": 545922,
       "hashes": {
-        "sha1": "46ddfad999793997ecfc050480d62a8ab2175dce",
-        "sha512": "996002926d58ce2e9f349b65d3e8c0b85fab24dcd69c71b2ab9b79e7fa810115fdfec456879e9c7da457ba3cc254527c7cbf63d3aaf8ec22d5609e3645a619fd"
+        "sha1": "90c1b26866887bfa6d6342abae3cdeaadc42c004",
+        "sha512": "6080026eff97ff6c0f49f0a57b69817d3100e7ea9b1ef67f41d5881eaa06aca42ef06a4e7531a566f5c579e07c382fd42642beb33fe04270e9303d8b33720ea5"
       },
-      "path": "mods/enhancedgroups-fabric-1.7.1+26.2.jar"
+      "path": "mods/enhancedgroups-fabric-1.8.0+26.3.jar"
     },
     {
       "downloads": [
@@ -36,63 +36,78 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/3bVvvVXu/versions/zfWZhotf/phantom-spawning-v0.1.10-mc26.2.jar"
+        "https://cdn.modrinth.com/data/3bVvvVXu/versions/8Mvw8sDx/phantom-spawning-v0.1.11-mc26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 571839,
+      "fileSize": 593196,
       "hashes": {
-        "sha1": "819ed3bda55d138b1caa494e2b48a2392bc349a7",
-        "sha512": "13266fda202ac864ab1a3a403f248201b56f68c78ebc4f34c25ed4d73dcf535079239209b1f6b99b6ff2042b4449ca6a4d6e02c3468ffbaab8bafe4e8125287c"
+        "sha1": "2e529d006692e50d36df7f3fe929f9e5d53fe34f",
+        "sha512": "21c3879fa05a6a22c3a04faf125a5ae954427819de349c3b215c5631916f8b83dcd962be56aeb7bd4aaeb77bb30bc197654b7289fc5177ab925b25945c170f06"
       },
-      "path": "mods/phantom-spawning-v0.1.10-mc26.2.jar"
+      "path": "mods/phantom-spawning-v0.1.11-mc26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/3SOh5iiX/voicechat-fabric-2.6.21%2B26.2.jar"
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/x9jLR94Q/voicechat-fabric-2.6.27%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 5572332,
+      "fileSize": 5611159,
       "hashes": {
-        "sha1": "445f7e1f1490e16385b04be554cf173c2a4fe780",
-        "sha512": "0308b2e18a05913faaf461530a475d2f5debbfb4d0a46107b512ce51166ceb6cfdbea468f7e21444a3e005655e51729c3764266f81c59b6228629b4866d16b28"
+        "sha1": "23442735927fe3839650196c0656eb82b0322d87",
+        "sha512": "f2de66761c0f249bb0f9a4b348f98b97ab4e89d3ed3fd37638420364b7431b757933aa08c0cc3e7ba3dd85a602d6c2de313c2309fc587e93cabf31fc5f6df27e"
       },
-      "path": "mods/voicechat-fabric-2.6.21+26.2.jar"
+      "path": "mods/voicechat-fabric-2.6.27+26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9nFfpUyI/versions/Ogkidk3Q/datapack-injector-fabric-1.0.0%2B26.2.jar"
+        "https://cdn.modrinth.com/data/9nFfpUyI/versions/RbqK50dY/datapack-injector-fabric-1.1.0%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 5426,
+      "fileSize": 6587,
       "hashes": {
-        "sha1": "d51088d02735e86459176b0da11048bed167941d",
-        "sha512": "f607c387589798540fb0e56a900d73b14e4364cf1f463ad8c312d824910afbc19c9f6436df6db20cf86f8d68818d6afb427833b87237f26af470f4096624663c"
+        "sha1": "aacd3f19f86698691be0addeeee8f693838f8cd8",
+        "sha512": "842da87844e22e24b2016552d8922d7f1f018aa5862624f204a3c8f40d1803f66d4ec902a8354f06ca7afd26481a4a3722d4c44f8045a06c25e14ad962612304"
       },
-      "path": "mods/datapack-injector-fabric-1.0.0+26.2.jar"
+      "path": "mods/datapack-injector-fabric-1.1.0+26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar"
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1135186,
+      "fileSize": 1135009,
       "hashes": {
-        "sha1": "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e",
-        "sha512": "37b1e402f0df5a383656e21a38ee18cdd15cb4ba3fb62fbeba82ef4b959a4479fc32718ac0d9d154a7d9104c5f7315bfa67dbeced0b8ff240b8039d4848d5df1"
+        "sha1": "9a5cce069380a2047250831dcb19f4ef1b15872d",
+        "sha512": "8924e19d41845096724fa10f3717bc51964a0edbbbcad0ff1e6c6187a398b08f356e49579a657c2dc44a7f92e3850771f3ca70bf8c1f654de60425163b91dbb1"
       },
-      "path": "mods/cloth-config-26.2.155.jar"
+      "path": "mods/cloth-config-fabric-26.3.159.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/BvzQw4wL/versions/zgXKNLMx/eunomia-fabric-0.3.15%2B26.3.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 376206,
+      "hashes": {
+        "sha1": "a33fb9ba2002ce028b4b8d55a7b41241601486bd",
+        "sha512": "6ab6e748f5b7d4b067c7cc84b33f8e84e7a5c6fca86df848d916f4fa6bde91a61e9ca08b8a96bd01f07ecd6534b938a41219fdfa4baf88f12f9a1ef30869c4ba"
+      },
+      "path": "mods/eunomia-fabric-0.3.15+26.3.jar"
     },
     {
       "downloads": [
@@ -111,213 +126,228 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/GgG2my3y/versions/BgRy8ofM/armor-hider-fabric-0.12.10%2B26.2.jar"
+        "https://cdn.modrinth.com/data/GgG2my3y/versions/TsVM434D/armor-hider-fabric-0.14.6%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 567546,
+      "fileSize": 733368,
       "hashes": {
-        "sha1": "e079cfd925d3da058b566edf563b212afecfcc14",
-        "sha512": "2cff2e9eb998cd868d1f6956da6e9221b8ab066be1262b09b1ca698a99f76421cff762f957fe271b92ce1b397464fc844bca3b27ed2b5fbfa457d2838bdef7fa"
+        "sha1": "afb5d978e05389a5277bf2bdb5fb5b6955c94d6f",
+        "sha512": "da5f6b0785b163c57b34dbce6c94cd4a5b38cf2756e6177c2fcf064a3e02e3176e6e42b0f57b7cc3c55799edf74533c86c11358fe85596c7ddb8450960e04d2e"
       },
-      "path": "mods/armor-hider-fabric-0.12.10+26.2.jar"
+      "path": "mods/armor-hider-fabric-0.14.6+26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/NSBscIsQ/versions/Fat2dP9Q/inhabitor-fabric-1.0.7%2B26.2.jar"
+        "https://cdn.modrinth.com/data/NSBscIsQ/versions/e2R2iD7w/inhabitor-fabric-1.0.7%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 121988,
+      "fileSize": 122027,
       "hashes": {
-        "sha1": "79ede88b98dde6f137f258a44b37cc47c148fe3b",
-        "sha512": "e7859c0c3439f7cda0489155014d437af835d6a5fbeba47aaff7695ffdb5603ff50da7ba920aaef50e703eeb709a7313b82e7b579fdf1a7fd4bce6f143ee4e5a"
+        "sha1": "37cacf258f2c511ed5b65427321b7a7ecbdf9707",
+        "sha512": "f2fcc39af5f97491c340f117ae412fee6f2400ce653c4cd879167cc8eaf587fb8dbe2750fe88f4fe7ed827e3c9090d57489b6e2a5589d95f51361271ecd0b1bb"
       },
-      "path": "mods/inhabitor-fabric-1.0.7+26.2.jar"
+      "path": "mods/inhabitor-fabric-1.0.7+26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/3gT0I5vt/fabric-api-0.156.0%2B26.2.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/nJlcvFfj/fabric-api-0.165.2%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2531175,
+      "fileSize": 1779306,
       "hashes": {
-        "sha1": "d96e0d9ef8ea3604fac4ca7495d7c6148f3ac816",
-        "sha512": "5bbc436d07f836cd90b88287e2ef27f1cd67e26185b2cd4a62cb2ae850eb74e5edbbc7ba7772e92ea91ebf35b263f8815421e3d5e7d2836cb28993ba1d534816"
+        "sha1": "2e364989e3f6efb97e1dbd12d80d835c7ab8c26c",
+        "sha512": "21ce87863ed73c4c871e072f13c5a7b00bd148a098c5064a5f381479d1ddd7c54b0f40ef7d17ce2ae5712deb647c5fcaf12cb72fb663fe8d958188e870b33de0"
       },
-      "path": "mods/fabric-api-0.156.0+26.2.jar"
+      "path": "mods/fabric-api-0.165.2+26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/PFwYNrHb/versions/EYDmNTN7/ArmorPoser-fabric-26.2-15.0.2.jar"
+        "https://cdn.modrinth.com/data/PFwYNrHb/versions/qmCAgvPA/ArmorPoser-fabric-26.3-16.0.1.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 184273,
+      "fileSize": 184948,
       "hashes": {
-        "sha1": "8318ce7413c637fade5c42c328695a9176c75d7b",
-        "sha512": "ccd82e54e48452aeffb9ef8cf13517ca715ff7a5c976c81638f4be4de52fb4b6eea5d607092bfc46ddb5084da3bfcbbf0eb9cfa2f6ee59764a99bf754395c7f6"
+        "sha1": "fe1fff399fbb975012cd841b96e52950c26b7b3a",
+        "sha512": "bbd60b34776cb1af7880331dcbf5301ea5df01c80b51265d067d75f09a9f4a0c73131cc2b9159f028cb41e38e9255092ac6354d322992c701de97d3a6c36ec1f"
       },
-      "path": "mods/ArmorPoser-fabric-26.2-15.0.2.jar"
+      "path": "mods/ArmorPoser-fabric-26.3-16.0.1.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/RPOSBQgq/versions/5IoWjg4u/itemswapper-fabric-1.0.0-beta.2-mc26.2%2Bgit.518b04a.jar"
+        "https://cdn.modrinth.com/data/RPOSBQgq/versions/xuDEChlT/itemswapper-fabric-1.0.0-beta.3-mc26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 2294068,
+      "fileSize": 2225541,
       "hashes": {
-        "sha1": "e40596c8bee94cdc9d52031e8902069dae633004",
-        "sha512": "ca5daabf392288df7e1801208d20c5fb29f6e5fa3e43e0233ff723327dbce028facb84381e17c735b73ff8e086d8916894b690ef07325bf16cf2161b72e76402"
+        "sha1": "8e4b0943b5f80334c26e69de5398c3877df007bf",
+        "sha512": "54660aba05bd553185a47c6295361fadd21f4f2f90ffacc3d6f86f6980e7eb3030fd81539e40babbc1fd5c609b8390b267118fa07dfb462cabd44b9b0a1f6a26"
       },
-      "path": "mods/itemswapper-fabric-1.0.0-beta.2-mc26.2+git.518b04a.jar"
+      "path": "mods/itemswapper-fabric-1.0.0-beta.3-mc26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/SRlzjEBS/versions/Nod7ADZm/audioplayer-fabric-2.4.0%2B26.2.jar"
+        "https://cdn.modrinth.com/data/SRlzjEBS/versions/p6mjD7hC/audioplayer-fabric-2.5.1%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 1159861,
+      "fileSize": 1203512,
       "hashes": {
-        "sha1": "db290b4be0a6b14f2c0c3b945d1a098a38cd10e8",
-        "sha512": "55d2982716a969eeba759b295287b69af23ad5c8cce03e65f98b0069ea8930e311e487822d30f7c414ef617562353236924734966473c1f7b6834578b3c58722"
+        "sha1": "ae6ba8c62344d9cb9cbdf8e4b48230ebc021affb",
+        "sha512": "7c8ab4ef14c30518d95285ea1b320dcc94d043667dc4a525434d06114db6b375a28bc0f1207ab105fb1b851f27f7881574389e8d7e21e77f01b8b53249bc417e"
       },
-      "path": "mods/audioplayer-fabric-2.4.0+26.2.jar"
+      "path": "mods/audioplayer-fabric-2.5.1+26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/VlR3taCz/versions/JZWRUSdg/unplugged_afk-v0.2.2-mc26.2.jar"
+        "https://cdn.modrinth.com/data/UPHTQ3on/versions/JUw5EUWS/ModelApplier-v1.7.0.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 674273,
+      "fileSize": 19823,
       "hashes": {
-        "sha1": "677b2edfae56cc8a8b4760dcd8d1acfcd8827589",
-        "sha512": "a83697df8c7d1d190a98ab9a3ffab5847aac4ade5843a09922fd73506905cd0301bed7350b8c6d8a54a30d2cf97c3983277aa04a9663a6195b7d491e32886bb1"
+        "sha1": "114e782de2831561ee836cfba6399b80921ecd27",
+        "sha512": "74ca32b9f6767dc1302e6b664768e8a6cea57873953aeb2d2fd963a727224917d4eae81a2a7d25ec3ea54ad90902ded2ea86c1c91b2365dd7cd47b79820cec12"
       },
-      "path": "mods/unplugged_afk-v0.2.2-mc26.2.jar"
+      "path": "datapacks/ModelApplier-v1.7.0.zip"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/YoRtMPzM/versions/u8viKX3N/SHA1Runtime-26.2-1.4.3.jar"
+        "https://cdn.modrinth.com/data/VlR3taCz/versions/zxEWidsQ/unplugged_afk-v0.2.6-mc26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 26787,
+      "fileSize": 697766,
       "hashes": {
-        "sha1": "be8297112036a3f873eaf301a381b2d3536aaad5",
-        "sha512": "97ca0c5d19a2f7e8420b1fc3087d6fcddc6dc36979551162d386726f76d05e0641a3ae2a59a099fefa2a090203b09c5ac0d1f873215f58839205fabe4369b2e6"
+        "sha1": "0882d2ebf847e3b217a4ffed9a6caf041af79b1b",
+        "sha512": "bb722940624f4434e454997f611a70bed4cda55cf379de7c21742e129c94af7190ca52ea2ef14c418e58b363358d225dcb7b3f33cf42f5c9d2ddd53e63188282"
       },
-      "path": "mods/SHA1Runtime-26.2-1.4.3.jar"
+      "path": "mods/unplugged_afk-v0.2.6-mc26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/b93awgkg/versions/gs7pv4kf/status-fabric-1.1.0%2B26.2.jar"
+        "https://cdn.modrinth.com/data/YoRtMPzM/versions/PlXkUqFk/SHA1Runtime-26.3-1.4.4.jar"
       ],
       "env": {
-        "client": "required",
+        "client": "unsupported",
         "server": "required"
       },
-      "fileSize": 531916,
+      "fileSize": 26236,
       "hashes": {
-        "sha1": "673d36cd62f22b89c99467085e185aa2b306a7eb",
-        "sha512": "534e9ef0e43febbc5181864edba554d11a0b72a015f49d03c710c48f2370793b7cd8edff0eafff3a2ef0fa900b6785363bf68e3bcaf49aae352aca4e8eabf6b2"
+        "sha1": "a2c3dbe571bffdd8fddfdb3869bc8d0430011f8e",
+        "sha512": "f6d25d033957198c5f0d4a921321846c772c9c5b72f803d9ea94be022a8d60a8a51f72f7df27f7a799315aec56843fa6b33bfa64776648192885cf4e4ffefdd9"
       },
-      "path": "mods/status-fabric-1.1.0+26.2.jar"
+      "path": "mods/SHA1Runtime-26.3-1.4.4.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/dbVXHSlv/versions/tuPsGk8g/fabricexporter-26.2-1.0.22.jar"
+        "https://cdn.modrinth.com/data/b93awgkg/versions/WL6fnRhA/status-fabric-1.1.0%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 159764,
+      "fileSize": 533219,
       "hashes": {
-        "sha1": "0ef089efd117f0097d0764da295723939d3b07e7",
-        "sha512": "80475cc389900c1d2e777ff1d0dd19776ba474eb2f96b73f1c1dbe8f349606a888ea35c7845cb517beef2ea3eaee0b5ce5ac39bea24a85f1165881b852760870"
+        "sha1": "d18d006123c3f32143d9d74ea9b48ed09946f816",
+        "sha512": "6df77caa84e17f4b33957a8e8719f44c001cfecf031b91fff59bc158ff54c3b49b81c593d097bda1b015434966c79f665027c20eeaf67f50c3f567c82cff76d5"
       },
-      "path": "mods/fabricexporter-26.2-1.0.22.jar"
+      "path": "mods/status-fabric-1.1.0+26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/dbVXHSlv/versions/oWz8OvaM/fabricexporter-26.3-1.0.23.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 912850,
+      "fileSize": 159825,
       "hashes": {
-        "sha1": "435ad0289209bb72195e7a423756a03f5dfa5a9a",
-        "sha512": "148b638f3c6229fbaf487120a2344a0af5e411a5aa6533d5db9d75da0a8c0d8304f63eb4cca13f4d03b2c9b4c23d559dd74c1d832422ef8a3087bd005e62a8bd"
+        "sha1": "2b56ee8cafe4c41e6840b71f2a25df2bcef8f092",
+        "sha512": "4c9bb2b822bc09e227d05426221ebe6c0943e74d75bd877c341867d4733060f1c95520ee766cf034571abb2d589fec3fe12f411e44bd0c7d8da361e513d1e5c2"
       },
-      "path": "mods/lithium-fabric-0.25.3+mc26.2.jar"
+      "path": "mods/fabricexporter-26.3-1.0.23.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/l6YH9Als/versions/iYFOl6lQ/spark-1.10.173-fabric.jar"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fWv5bnZk/lithium-fabric-0.26.3%2Bmc26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 3887184,
+      "fileSize": 919892,
       "hashes": {
-        "sha1": "fab7a3fec7dd01936fa21c88af40f8093b714dd2",
-        "sha512": "1dcbf2b76ceacf07523afaeaf63d3625b0318077cc6ce588bb701aea4a494bc2a5179fd2ca5aeda9513c6a2248c2ec590387e8aec6ac9fd8e3d01760bbc3dbfb"
+        "sha1": "2d3afe9d43bb2549e23479d8d93e644ff366bebf",
+        "sha512": "2ca92fb530135d2baddf0ba4cc4f93976234876a38c4aa02b487b2552400f005afcfbeebf5373fb4396fe2020537a42d7597b8da5a52b904355ef51d5fef07ad"
       },
-      "path": "mods/spark-1.10.173-fabric.jar"
+      "path": "mods/lithium-fabric-0.26.3+mc26.3.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/nxrXbh5K/versions/NLZneHzk/viewdistancefix-fabric-1.0.2%2B26.2.jar"
+        "https://cdn.modrinth.com/data/l6YH9Als/versions/e3hsPc1o/spark-1.10.187-fabric.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 282429,
+      "fileSize": 3838499,
       "hashes": {
-        "sha1": "5ab49ca43e067711bad0a491494abf8b6497b80f",
-        "sha512": "e49fd69e577f9ea8f8d53851ed961a470e40dc033616be74024b6689f68b2aa5b8da84cc57f1c5f5721ec55b61f4b94304c4a10e4aa0660c9adf01129c729bf0"
+        "sha1": "0940b4089affdfca37d6b6d0ea5ecae4dbd8fe98",
+        "sha512": "c74bf5d5a16b2445ec6ea717eac756412b272a8015e91f91a7bf5a27e6f2f99c4a11878d434510f941f37b0344b3a7d1ba0dd6c34e80642762c48fb6e9a93894"
       },
-      "path": "mods/viewdistancefix-fabric-1.0.2+26.2.jar"
+      "path": "mods/spark-1.10.187-fabric.jar"
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ohNO6lps/versions/rSd3GiG8/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
+        "https://cdn.modrinth.com/data/nxrXbh5K/versions/Ucnvj39b/viewdistancefix-fabric-1.0.2%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 609550,
+      "fileSize": 283069,
       "hashes": {
-        "sha1": "a4083de0d8e0c19b993d21f7a576216efb5ceb23",
-        "sha512": "948b8d83de61a11aad2fc0bb0744a8b4848c9b2f0663c9aa015389d9560b3fa78518e609c44ec90278de0e159a92ebd721ccbdebb453aa455c353e5cd19413bf"
+        "sha1": "dcb147bcdd019a608dea0910acda6c605147ea4c",
+        "sha512": "7fb68665b957776f4b7b1dae9c2562a911c4984268d85bf03a076663c62575dea50eda357af30b294292a78567696c626d414cbeaee14420ee20d58d7d2dd077"
       },
-      "path": "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
+      "path": "mods/viewdistancefix-fabric-1.0.2+26.3.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 609574,
+      "hashes": {
+        "sha1": "a0d802d2cb010a5054c72f1ccf248433b6e0bafb",
+        "sha512": "b9339c21e14beec2eae0ca215317284bcaacef72e1d1dee8b3dfbe2de0eefaa758a172446df85419b6534557c479abe972d7d21f4ec194f2d436f9ed4329cb9f"
+      },
+      "path": "mods/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar"
     },
     {
       "downloads": [
@@ -336,18 +366,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/vGoiKzZE/versions/P2XAyraK/audioplayer-roleplay-fabric-0.3.0%2B26.2.jar"
+        "https://cdn.modrinth.com/data/vGoiKzZE/versions/BKHRCMLv/audioplayer-roleplay-fabric-0.4.0%2B26.3.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 285535,
+      "fileSize": 297885,
       "hashes": {
-        "sha1": "3000ff90d5c5545eb7b15d061fce5d7943500f60",
-        "sha512": "b472789fd304b8fa9c4c892c5f3b54a834f431e21563116dd1769ff91ba33b49d5b7d1f5bb677c8fe16163e27d0e82460d6a8b5dc9d54eefdd5c8d59de167f61"
+        "sha1": "4498b6594f5c5055cdd143182c08fab344c23446",
+        "sha512": "7bcb9b86340fca4ec52905537eb574eaec9d44fa6ceb2ee2650dca0d338f11d578a3add69b42de67563572187090a20a373595150c0ade65a0e44ef924ad883d"
       },
-      "path": "mods/audioplayer-roleplay-fabric-0.3.0+26.2.jar"
+      "path": "mods/audioplayer-roleplay-fabric-0.4.0+26.3.jar"
     }
   ],
   "formatVersion": 1,
