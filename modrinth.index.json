@@ -21,18 +21,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/1s7zUX2O/versions/fOI0qHKG/name_formatting_station_v2.9.zip"
+        "https://cdn.modrinth.com/data/1s7zUX2O/versions/2TZakZoi/name_formatting_station_v2.10.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 226452,
+      "fileSize": 241565,
       "hashes": {
-        "sha1": "1a4f5da336f47cba7e51ec62b3b8fa9445a27158",
-        "sha512": "fe482510a0fbc813fe0f3fd4e6e2e052e3b3811dec53907cd4c5bae2cec76fcfde33f80621659858f0fdb72285b0ffb71bdd1d993fd64e51939d4ffe7194e7c8"
+        "sha1": "afd6b14cc3a9132e977314d5897350220443759d",
+        "sha512": "0c9832aa04bafb636a4099a535f68ba75a41a70233a54f7dc141e589badc393d4d4b3bbfa80b94f10aa89a8897de9181b661b64d081f66d59e9f6e5e081917ea"
       },
-      "path": "datapacks/name_formatting_station_v2.9.zip"
+      "path": "datapacks/name_formatting_station_v2.10.zip"
     },
     {
       "downloads": [
@@ -111,18 +111,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/Cfqq3Wh1/versions/PH59F2ma/armor_statues_v2.17.0.zip"
+        "https://cdn.modrinth.com/data/Cfqq3Wh1/versions/zQFHZJuw/armor_statues_v2.18.1.zip"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 471580,
+      "fileSize": 495847,
       "hashes": {
-        "sha1": "94fc69dc12cbee5225c51f9f0b4213d66cc3ac35",
-        "sha512": "b006e6272c4b52ce5aa709832c45b7fd7609e64261a883e920c6f8eab3405685ab1b9cc20f1ab16a789e6b56adeb91c54dc387dbb245ab16a07ceefd16a2d7d7"
+        "sha1": "f407f2c6d7e5a976e588ad97f27c11322a6faba8",
+        "sha512": "312e32fbdeed636b0f76b3484db71f4c508afacf9415e3398fbd8573cc49b6055f2322827903b8f0404a62b78a8e9a2a162b71557775afc0e097eae2f8f5bd28"
       },
-      "path": "datapacks/armor_statues_v2.17.0.zip"
+      "path": "datapacks/armor_statues_v2.18.1.zip"
     },
     {
       "downloads": [
